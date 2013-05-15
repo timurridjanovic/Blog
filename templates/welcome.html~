@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>welcome</title>
+	<link rel="stylesheet" type="text/css" href="/css/mystyle.css"/>
+    </head>
+
+    <body>
+    <h1>Welcome {{user}}!</h1>
+    <a href="/signup">Log out</a>
+
+       
+    </body>
+</html>
